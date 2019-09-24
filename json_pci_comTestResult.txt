@@ -1,0 +1,33 @@
+[ {    "name" : "tdd-fzm",
+        "product" : "WORKSPACE1",
+        "branch" : "trunk1",
+        "end" : 1480558537,
+        
+        "start" : 1480555389,
+        "buildid" : "TL456",
+        "total_count" : 21,
+       
+        "pass_count" : 16,
+        
+        "fail_count" : 5,
+        "bl" : "CBAM_FTCI1",
+        "test_hierarchy" : "UT;FIRST_TESTSUITE",
+        "USER_SET_STATE":"UT",
+        "cases" : [{
+                        "failcount" : 0,
+                        "start" : 1480555389,
+                        "url" : "url1",
+                        "end" : 1480556143,
+                        "name" : "testcase1",
+                        "featureid" : [ ],
+                        "passcount" : 1,
+                        "result" : "PASS"
+                }
+        ],
+        "exec_frequency" : "buildly",
+        "type" : "scbuild",
+        "result_url" : "url1/CC++_Code_HTML_Report"
+    }
+    
+
+]
