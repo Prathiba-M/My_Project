@@ -1,12 +1,12 @@
 {
      "buildid" : "$buildid",
-     "bl" : "$bl",
-     "product" : "$product",
-     "branch" : "$branch",
-     "type" : "$type",
-     "buildstart" : $start,
-     "buildend" : $end,
-     "buildresult" : "$buildresult",
+     "bl" : "HHH",
+     "product" : "product",
+     "branch" : "branch",
+     "type" : "scbuild",
+     "buildstart" : 1569476924,
+     "buildend" : 1569477924,
+     "buildresult" : "pass",
      "buildurl" : "url1",
      "buildlinks" : [
             
