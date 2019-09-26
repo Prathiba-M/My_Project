@@ -1,5 +1,5 @@
 {
-     "buildid" : "$buildid",
+     "buildid" : "BL123",
      "bl" : "HHH",
      "product" : "product",
      "branch" : "branch",
