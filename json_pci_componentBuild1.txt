@@ -4,8 +4,8 @@
      "product" : "product",
      "branch" : "branch",
      "type" : "scbuild",
-     "buildstart" : 1569481421,
-     "buildend" : 1569481621,
+     "buildstart" : 1569494577,
+     "buildend" : 1569494777,
      "buildresult" : "pass",
      "buildurl" : "url1",
      "buildlinks" : [
