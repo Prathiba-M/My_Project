@@ -1,9 +1,9 @@
 [ {    "name" : "tdd-fzm",
         "product" : "product",
         "branch" : "branch",
-        "end" : 1569479730,
+        "end" : 1569494996,
         
-        "start" : 1569478730,
+        "start" : 1569494896,
         "buildid" : "$buildid",
         "total_count" : 21,
        
@@ -15,9 +15,9 @@
         "USER_SET_STATE":"UT",
         "cases" : [{
                         "failcount" : 0,
-                        "start" : 1569478730,
+                        "start" : 1569494896,
                         "url" : "url1",
-                        "end" : 1569479730,
+                        "end" : 1569494996,
                         "name" : "testcase1",
                         "featureid" : [ ],
                         "passcount" : 1,
